@@ -2,7 +2,8 @@
 
 whom_variable="world"
 
-printf "Hello, %s\n" "$whom_variable"
+$printf "Hello, %s\n" "$whom_variable"
+
 
 #example 2
 

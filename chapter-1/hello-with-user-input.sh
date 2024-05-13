@@ -9,7 +9,7 @@ echo "Hello, $name."
 
 #example 2
 
-#echo "What are you doing?"
+#echo "What are you doing?"#
 
 #read action
 
